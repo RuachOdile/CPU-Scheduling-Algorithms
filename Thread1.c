@@ -38,6 +38,6 @@ pthread_join(thread2,NULL);
 printf("The process ID of the first process id %lu\n",thread1);
 
 printf("The process ID of the second process id %lu\n",thread2);
-
+}
 
 
